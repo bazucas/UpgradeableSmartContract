@@ -1,4 +1,3 @@
-// scripts/prepare_upgrade.js
 async function main() {
     const proxyAddress = 'FILL_ME_IN'
     const BoxV2 = await ethers.getContractFactory("BoxV2")

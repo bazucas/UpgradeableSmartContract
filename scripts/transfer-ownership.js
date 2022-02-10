@@ -1,4 +1,3 @@
-// scripts/transfer_ownership.js
 async function main() {
     const gnosisSafe = 'FILL_ME_IN'
 
